@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on cleaning all my repos and updating all the projects I used to show as my professional portfolio.
 - 🌱 I’m currently learning to code back end apps.
-- 📫 How to reach me: https://www.instagram.com/jsebnvds/ or jdanielbenavides@hotmail.com if it is urgent.
+- 📫 How to reach me: jdanielbenavides@hotmail.com if it is urgent.
 - ⚡ Fun fact: I was really interested in programming since I was a child. I actually started studying electronics at university but life brought me back to the path of software and informatics.
 -  I can speak spanish, english and a few japanese (not professional level)
 
